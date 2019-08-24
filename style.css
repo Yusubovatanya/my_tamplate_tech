@@ -57,6 +57,7 @@ h2 {
 .menu ul li a {
   color: black;
   padding: 2px 15px;
+  transition-duration: .2s;
 }
 
 .menu a:active,
