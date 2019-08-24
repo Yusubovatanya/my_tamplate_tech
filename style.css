@@ -96,10 +96,10 @@ h2 {
   padding: 15px 0;
 }
 
-.contact_us a: hover,
-.contact_us a: focuse,
-.contact_us a: active {
-  box-shadow: 0px 0px 18px 0px rgba(159,166,168,1);
+.contact_us a:hover,
+.contact_us a:focus,
+.contact_us a:active {
+  box-shadow: 0px 0px 18px 0px rgba(159, 166, 168, 1);
 }
 
 /* line */
